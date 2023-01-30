@@ -4,5 +4,5 @@ Description: An example of docker project with a front-end based on react, a mys
 Features: Add, remove and check a to-do list 
 How to use: TBD
 Technologies: React, Node JS, Docker, Mysql
-Collaborators
+Collaborators: fhermq
 License
